@@ -11,8 +11,8 @@ This project numerically simulates transient heat conduction through a rocket no
 
 ## Repository Structure
 
-- `AE370-Project-2.ipynb` — Main notebook with full simulation, analysis, and results
-- `AE370-Project-2.pdf` - Full technical report containing all simulation data, analysis, and results
+- `AE370_Project_2.ipynb` — Main notebook with full simulation, analysis, and results
+- `AE370_Project_2.pdf` - Full technical report containing all simulation data, analysis, and results
 - `figures/` — Folder containing saved figures:   
 - `README.md` — This file  
 
