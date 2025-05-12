@@ -50,4 +50,4 @@ AE 370 — Numerical Methods in Aerospace Engineering
 
 ## License
 
-This project is for academic use. NASA data is public domain per [NASA Open Access Policy](https://www.nasa.gov/open/researchaccess/).
+This project is for academic use. NASA data is public domain per [NASA Public Access Plan](https://www.nasa.gov/wp-content/uploads/2021/12/nasa-ocs-public-access-plan-may-2023.pdf).
